@@ -26,12 +26,20 @@ horror movies. Welcome to my page!
 - List
 # Portfolio Examples 
 ## Lucas Sofolo's creative works
-As I continue to work on creative projects and improve my skills, I will publish my finished products here in order to show my progess and skill level. 
+
+As I continue to work on creative projects and improve my skills, I will publish my finished products here in order to show my 
+progress and skill level. Some creative projects I plan to embark on include blogs on various topics, graphic design pleasure works,
+and web-based projects to help improve my skill in that area. I'd like to try writing blogs that can combine my interests and allow 
+me to use my creativity. Some topics I think I'd enjoy writing about and could also intrigue some internet browsers are sports talk,
+movie reviews, and general open-ended writings in case I want to let out thoughts others could relate to. I'd also like to get 
+started on some sports and business graphic designs. Some web-based missions I plan to pursue include starting a vikes_nation 
+website. 
 
 1. Numbered
 2. List
 # Vikes_nation Brand Overview
 ## Examples of Vikes_nation content from over the years 
+
 I started the Vikes_nation Instagram way back in 2014, when I was in 8th Grade. 
 
 **Bold** and _Italic_ and `Code` text
