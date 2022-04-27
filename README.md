@@ -12,14 +12,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # About Me 
-## Portfolio Examples 
-### Vikes_nation Brand Overview 
+## A brief telling of who Lucas Sofolo is  
+I am a Senior at Iowa State Univesrsity majoring in Marketing. 
+  
 
 - Bulleted
 - List
+# Portfolio Examples 
+## Lucas Sofolo's creative works
+As I continue to work on creative projects and improve my skills, I will publish my finished products here in order to show my progess and skill level. 
 
 1. Numbered
 2. List
+# Vikes_nation Brand Overview
+## Examples of Vikes_nation content from over the years 
+I started the Vikes_nation Instagram way back in 2014, when I was in 8th Grade. 
 
 **Bold** and _Italic_ and `Code` text
 
