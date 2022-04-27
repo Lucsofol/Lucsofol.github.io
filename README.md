@@ -40,7 +40,11 @@ website.
 # Vikes_nation Brand Overview
 ## Examples of Vikes_nation content from over the years 
 
-I started the Vikes_nation Instagram way back in 2014, when I was in 8th Grade. 
+This is where I will post examples of my vikes_nation content from over the years. I started the Vikes_nation Instagram way back in 
+2014 when I was in 8th Grade. I hold the project close to me because it was started with no intentions other than a passion for the 
+Minnesota Vikings and writing about the topic. Over the years, my account has grown from 0 to 22,000 followers, gotten likes from 
+multiple current Vikings players, and partnered with various respected brands. Content I post on the account includes edits, 
+highlights, news, and lengthy writings going in-depth about everything Minnesota Vikings. Thank you for the follow and support!  
 
 **Bold** and _Italic_ and `Code` text
 
