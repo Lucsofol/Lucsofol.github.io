@@ -47,7 +47,8 @@ highlights, news, and lengthy writings going in-depth about everything Minnesota
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Adam Thielen Underdog Edit](![IMG_5237](https://user-images.githubusercontent.com/102264748/165646074-825df6b9-296a-40cb-b089-c07a875aa329.JPG)
+)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
