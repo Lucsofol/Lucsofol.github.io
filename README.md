@@ -45,7 +45,7 @@ Minnesota Vikings and writing about the topic. Over the years, my account has gr
 multiple current Vikings players, and partnered with various respected brands. Content I post on the account includes edits, 
 highlights, news, and lengthy writings going in-depth about everything Minnesota Vikings. Thank you for the follow and support!  
 
-**Bold** and _Italic_ and `Code` text
+
 
 ![Adam Thielen Underdog Edit](![IMG_5237](https://user-images.githubusercontent.com/102264748/165646074-825df6b9-296a-40cb-b089-c07a875aa329.JPG)
 )
