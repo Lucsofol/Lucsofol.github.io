@@ -12,8 +12,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # About Me 
-## A brief telling of who Lucas Sofolo is  
-I am a Senior at Iowa State Univesrsity majoring in Marketing. 
+## A brief telling of who Lucas Sofolo is   
+
+I am a Senior at Iowa State University majoring in Marketing. I am originally from a small town in Illinois called Roscoe.  
+A couple of reasons I enjoy marketing is that it can have such an effect on a business's success and because it allows me to 
+use my creativity to my advantage in the subject. For example, brand power and positioning have such an influence on consumer 
+preferences, loyalty, and perception that it alone can make or break a firm. Everyone knows Mcdonald's golden arches which go to 
+show how powerful a brand can become. Personally, a few activities I enjoy in my free time include running, reading, and watching 
+horror movies. Welcome to my page!
   
 
 - Bulleted
