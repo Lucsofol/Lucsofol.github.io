@@ -21,9 +21,8 @@ preferences, loyalty, and perception that it alone can make or break a firm. Eve
 show how powerful a brand can become. Personally, a few activities I enjoy in my free time include running, reading, and watching 
 horror movies. Welcome to my page!
   
+- Vermeer Sales Challenge Top-10 finisher (2020) 
 
-- Bulleted
-- List
 # Portfolio Examples 
 ## Lucas Sofolo's creative works
 
@@ -35,8 +34,8 @@ movie reviews, and general open-ended writings in case I want to let out thought
 started on some sports and business graphic designs. Some web-based missions I plan to pursue include starting a vikes_nation 
 website. 
 
-1. Numbered
-2. List
+1. [Professional Powerpoint](https://docs.google.com/presentation/d/1IqK-xvWDBbpabWF7dw0U-yYy-ElCafOwGXuQsGQWVIo/edit?usp=sharing)
+
 # Vikes_nation Brand Overview
 ## Examples of Vikes_nation content from over the years 
 
